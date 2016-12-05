@@ -8,7 +8,7 @@ using std::endl;
 
 int main() {
   std::string input[5];
-  std::vector< std::vector <int> > pad  { {1,2,3}, {4,5,6}, {7,8,9}};
+  std::vector< std::vector <int> > pad  { {1,2,3}, {4,5,6}, {7,8,9} };
   std::vector< std::vector <char> > pad2 { {' ',' ','1',' ',' '}, {' ','2','3','4',' '}, {'5','6','7','8','9'}, {' ','A','B','C',' '}, {' ',' ','D',' ',' '} };
 
   std::fstream fin("day2.dat");
