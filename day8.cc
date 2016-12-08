@@ -6,7 +6,6 @@
 #include <thread>
 #include <chrono>
 
-using std::cin;
 using std::cout;
 using std::endl;
 
