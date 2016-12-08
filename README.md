@@ -14,7 +14,7 @@ Bash script accepts starting and ending number, and iterates from "$string" + st
 
 Option "-n" in echo removes the trailing newline and pipes the string into md5sum program. 
 
-C++ versionis significantly faster, it uses the OpenSSL MD5 function.
+C++ version is significantly faster, it uses the OpenSSL MD5 function.
 
 Day 6:
 
@@ -22,4 +22,4 @@ Day 7:
 
 Day 8:
 
-Not particularly elegant, but hopefully readable code. It uses the <chrono> and <thread> libraries for pausing every 50 miliseconds, and changes color of the output while drawing the screen after each command. 
+Not particularly elegant, but hopefully readable code. It uses the \<chrono\> and \<thread\> libraries for pausing every 50 miliseconds, and changes color of the output while drawing the screen after each command. 
