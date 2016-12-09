@@ -23,3 +23,8 @@ Day 7:
 Day 8:
 
 Not particularly elegant, but hopefully readable code. It uses the \<chrono\> and \<thread\> libraries for pausing every 50 miliseconds, and changes color of the output while drawing the screen after each command. 
+
+day8.dat is a slightly modified version of the original input for easier parsing and reading. 
+
+Day 9:
+Recursive version is _significantly_ faster.
