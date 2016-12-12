@@ -29,3 +29,8 @@ Recursive version is _significantly_ faster.
 
 Day 10:
 Ridiculous class usage, and modified input file for easier parsing. 
+
+Day 11:
+
+Day 12:
+To solve part 2of the problem, change the initialization of 'c' to 1.
