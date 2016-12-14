@@ -15,8 +15,6 @@ int main() {
 
   std::string name = "zpqevtbw";
   std::string testcase = "";
-  std::string code_part1 = "";
-  std::string code_part2 = "________";
 
   std::vector<int> hash_counts;
   std::vector<int> hash_matches;
