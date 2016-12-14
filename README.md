@@ -1,6 +1,6 @@
 # Advent of Code 2016
 
-Day 1:
+<h3>Day 1:</h3>
 
 Day 2:
 
@@ -38,3 +38,5 @@ To solve part 2of the problem, change the initialization of 'c' to 1.
 Day 13:
 Shortest path algorithm, uses a simple queue to keep track of moves that need to be checked. In principle it could be made faster by using a priority queue based on the distance to the target, but it fast enough for the particular problem.
 
+Day14:
+Straightforward running through hashes and memorizing them.
