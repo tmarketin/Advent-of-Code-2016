@@ -110,8 +110,8 @@ public:
       floor = items & mask_floor;
 
       for(int j = 1; j < NUM_ITEMS; j+=2) {
-        fl_mic_obj = floor & (mask_object << j); 
-        fl_gen_obj = floor & (mask_object << (j-1)); 
+        fl_mic_obj = floor & (mask_object << j); // if a microchip is here, but not shielded
+        fl_gen_obj = floor & (mask_object << (j-1)); // and there are other generators - not a valid state
         if(fl_mic_obj != 0 && fl_gen_obj == 0 && (floor & mask_generators) != 0)
           return false;
       }
@@ -143,8 +143,8 @@ public:
       exit(1);
     }
 
-    items = items^k;
-    items = items | (k >> LIST_SIZE);
+    items = items^k; // remove items
+    items = items | (k >> LIST_SIZE); // place them one floor up
 
     if(__builtin_popcountl(k) == 1)
       distance -= 1;
