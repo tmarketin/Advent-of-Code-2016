@@ -41,5 +41,8 @@ To solve part 2 of the problem, change the initialization of 'c' to 1.
 <h4>Day 13:</h4>
 Shortest path algorithm, uses a simple queue to keep track of moves that need to be checked. In principle it could be made faster by using a priority queue based on the distance to the target, but it fast enough for the particular problem.
 
-<h4>Day14:</h4>
+<h4>Day 14:</h4>
 Straightforward running through hashes and memorizing them.
+
+<h4>Day 15:</h4>
+Very straightforward solution, incrementing time by the size of the first disc (could be better by incrementing by the size of the largest, but it already finishes in 0.1 s).
