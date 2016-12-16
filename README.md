@@ -46,3 +46,6 @@ Straightforward running through hashes and memorizing them.
 
 <h4>Day 15:</h4>
 Very straightforward solution, incrementing time by the size of the first disc (could be better by incrementing by the size of the largest, but it already finishes in 0.1 s).
+
+<h4>Day 16:</h4>
+Quick solution.
