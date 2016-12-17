@@ -49,3 +49,5 @@ Very straightforward solution, incrementing time by the size of the first disc (
 
 <h4>Day 16:</h4>
 Quick solution.
+
+<h4>Day 17:</h4>
