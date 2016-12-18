@@ -51,3 +51,6 @@ Very straightforward solution, incrementing time by the size of the first disc (
 Quick solution.
 
 <h4>Day 17:</h4>
+
+<h4>Day 18:</h4>
+A simple solution using strings. One could do a bitwise representation of the problem, but I don't think could make it more elegant than <a href="https://www.reddit.com/r/adventofcode/comments/5iyp50/2016_day_18_solutions/dbc0l6j/">this solution</a>.
