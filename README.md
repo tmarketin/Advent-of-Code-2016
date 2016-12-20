@@ -57,3 +57,6 @@ A simple solution using strings. One could do a bitwise representation of the pr
 
 <h4>Day 19:</h4>
 Solution using circular linked list.
+
+<h4>Day 20:</h4>
+One pass through the input file that is modified (removed '-' and sorted) for easier parsing.
