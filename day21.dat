@@ -1,0 +1,100 @@
+swap letter a d
+move 6 4
+move 5 1
+swap letter h e
+rotate position a
+move 6 2
+reverse 0 1
+rotate position h
+rotate position g
+rotate position h
+reverse 4 7
+swap letter a f
+swap position 2 7
+move 7 5
+reverse 0 5
+rotate position f
+rotate right 4 
+swap position 3 0
+move 1 2
+reverse 4 6
+swap position 3 5
+swap letter a c
+swap position 5 2
+swap position 7 2
+move 2 5
+rotate position h
+rotate right 2 
+swap position 3 4
+move 0 1
+reverse 1 7
+reverse 1 4
+rotate position b
+rotate right 7 
+rotate left 0 
+swap position 6 1
+reverse 1 3
+reverse 0 3
+move 0 4
+rotate position f
+reverse 0 7
+reverse 0 1
+move 1 7
+move 7 6
+rotate position b
+reverse 3 5
+reverse 0 3
+swap letter c h
+reverse 3 5
+swap position 3 6
+swap letter d g
+move 5 6
+swap position 6 2
+rotate right 5 
+swap letter e g
+rotate position e
+rotate position c
+swap letter g e
+rotate position b
+rotate position b
+swap position 0 2
+move 6 0
+move 5 0
+rotate left 2 
+move 0 5
+rotate left 7 
+swap letter b g
+rotate position d
+swap letter h e
+swap letter d c
+rotate position f
+move 5 0
+rotate left 5 
+swap position 0 7
+swap position 0 3
+rotate left 4 
+rotate left 1 
+rotate right 6 
+swap position 0 1
+reverse 4 6
+reverse 4 6
+move 6 3
+move 7 4
+rotate right 4 
+swap letter g d
+swap letter c e
+swap letter e h
+rotate right 5 
+rotate position g
+rotate position g
+rotate left 3 
+swap letter h g
+reverse 0 4
+rotate right 4 
+move 6 4
+rotate position c
+swap position 2 6
+swap position 7 2
+rotate right 1 
+swap position 3 1
+swap position 4 6

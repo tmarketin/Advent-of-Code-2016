@@ -60,3 +60,6 @@ Solution using circular linked list.
 
 <h4>Day 20:</h4>
 One pass through the input file that is modified (removed '-' and sorted) for easier parsing.
+
+<h4>Day 21:</h4>
+For part 2 I iterate over all permutations of the starting string until I find the correct one. The permutations are done by the std::next_permutation from <algorithm>. Input file is simplified for easier parsing.
