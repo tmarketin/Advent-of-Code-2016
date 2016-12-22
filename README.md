@@ -63,3 +63,6 @@ One pass through the input file that is modified (removed '-' and sorted) for ea
 
 <h4>Day 21:</h4>
 For part 2 I iterate over all permutations of the starting string until I find the correct one. The permutations are done by the std::next_permutation from <algorithm>. Input file is simplified for easier parsing.
+
+<h4>Day 22:</h4>
+There is only 1 empty node, so for part 1 I sorted the nodes by the used column and counted lines with the nodes which have used smaller than the total of that one node with wc -l. Part 2 is also solvable by hand, and much more quickly than exploring the complete problem space. Code tries to perform a breadth search, but takes a while to complete. 
