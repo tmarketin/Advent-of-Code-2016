@@ -66,3 +66,6 @@ For part 2 I iterate over all permutations of the starting string until I find t
 
 <h4>Day 22:</h4>
 There is only 1 empty node, so for part 1 I sorted the nodes by the used column and counted lines with the nodes which have used smaller than the total of that one node with wc -l. Part 2 is also solvable by hand, and much more quickly than exploring the complete problem space. Code tries to perform a breadth search, but takes a while to complete. 
+
+<h4>Day 23:</h4>
+Used code from day 12 to implement the new instruction. A multiply loop was handled explicitly for speed.
