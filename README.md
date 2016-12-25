@@ -69,3 +69,9 @@ There is only 1 empty node, so for part 1 I sorted the nodes by the used column 
 
 <h4>Day 23:</h4>
 Used code from day 12 to implement the new instruction. A multiply loop was handled explicitly for speed.
+
+<h4>Day 24</h4>
+The problem is similar to the one of Day 13, but there are more points the path must go through. Instead of searching for the shortest path in total, the program looks for the shortest paths between any two points, and then iterates through all the possible permutations of point ordering to find the absolute shortest. PArt 2 doesn't change anything computationally, it just fixes the path end point. 
+
+<h4>Day 25</h4>
+The program chooses the easy way out, and prints the first ten signals for each initializing value and looking at the output one finds out the correct init value.
